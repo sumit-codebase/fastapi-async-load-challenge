@@ -30,7 +30,5 @@ under concurrent load.
 5. Be ready to explain your fix — not just paste it. You'll be asked to
    walk through *why* the original code behaves this way under load.
 
-## Bonus
-
-If this were backed by a real database, what would you check about the
+6. If this were backed by a real database, what would you check about the
 DB's own connection pool limits before touching the app code?
